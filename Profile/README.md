@@ -2,18 +2,21 @@
 
 ## Team 3
 
-![Total Commit](https://img.shields.io/badge/Total%20Commits-1128+-green)
-
 K-Software Empowerment BootCamp
+<br><br>
 
 ## Repositories
+
 - Documentation: 프로젝트 개요 및 기획
+<br><br>
 
 ## Members
 
 - Client: 김백유  
 - Server: 박민준, 정진서 
+<br><br>
 
 ## Preview
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=footer)
